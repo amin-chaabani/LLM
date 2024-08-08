@@ -12,7 +12,7 @@ Local Model Usage: Operates with HuggingFace models for embeddings and language 
 🛠️ Installation
 Clone the repository:
 
-git clone https://github.com/rami2803200/END-TO-END-LLM-FINANCE-PROJ
+git clone https://github.com/amin-chaabani/LLM
 cd news-ai-bot
 Install the required packages:
 
